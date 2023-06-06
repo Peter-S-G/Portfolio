@@ -20,14 +20,14 @@ function App() {
       <div id="contents">
         <p className="links">
           
-          <a href="https://github.com/demetrigeras" target="_blank" className="entrepreneur">Github Profile</a>
+          <a href="https://github.com/Peter-S-G" target="_blank" className="entrepreneur">Github Profile</a>
           <a href={Resume} className="entrepreneur" target="_blank" rel="noopener noreferrer">Resume</a>
           <a href="https://www.linkedin.com/in/peter-geras/" target="_blank" className="entrepreneur">Linkedin</a>
           <div className="dropdown">
             <a className="entrepreneur">Projects</a>
             <div className="dropdown-content">
-              <a href="https://demetrigeras.github.io/Hangman/" target="_blank"   className="entrepreneur">Hangman</a>
-              <a href="https://demetrigeras.github.io/UI-Project/" target="_blank"  className="entrepreneur">Random Recipes</a>
+              <a href="https://github.com/Peter-S-G/Payroll" target="_blank"   className="entrepreneur">Hangman</a>
+              <a href="https://github.com/Peter-S-G/DigitalLease" target="_blank"  className="entrepreneur">Random Recipes</a>
             </div>
           </div>
           
