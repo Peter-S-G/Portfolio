@@ -39,7 +39,7 @@ function App() {
         <div className="demetri">
           <img src={profilePic} alt="profile image" />
           <div className="aboutMe">
-            About: I'm a passionate software engineer with a knack for solving complex problems and debugging my peers' errors.
+            About: I'm a passionate software engineer with a knack for solving complex problems and debugging my peers errors.
             I thrive in collaborative environments and believe in creating warm and supportive spaces that foster creativity and innovation.
             When I'm not coding, you can find me playing soccer, chess, or exploring new parts of the world.
           </div>
