@@ -26,8 +26,8 @@ function App() {
           <div className="dropdown">
             <a className="entrepreneur">Projects</a>
             <div className="dropdown-content">
-              <a href="https://github.com/Peter-S-G/Payroll" target="_blank"   className="entrepreneur">Hangman</a>
-              <a href="https://github.com/Peter-S-G/DigitalLease" target="_blank"  className="entrepreneur">Random Recipes</a>
+              <a href="https://github.com/Peter-S-G/Payroll" target="_blank"   className="entrepreneur">Payroll</a>
+              <a href="https://github.com/Peter-S-G/DigitalLease" target="_blank"  className="entrepreneur">DigitalLease</a>
             </div>
           </div>
           
