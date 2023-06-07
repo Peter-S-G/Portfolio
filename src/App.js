@@ -39,9 +39,8 @@ function App() {
         <div className="demetri">
           <img src={profilePic} alt="profile image" />
           <div className="aboutMe">
-            About: I'm a passionate software engineer with a knack for solving complex problems and debugging my peers errors.
-            I thrive in collaborative environments and believe in creating warm and supportive spaces that foster creativity and innovation.
-            When I'm not coding, you can find me playing soccer, chess, or exploring new parts of the world.
+          Motivated software engineer, with expertise in various areas of computer science such as data science, software development, and artificial intelligence. 
+          Posses a solid foundation in programming languages and problem-solving skills to contribute to the tech industry and take on challenging projects.
           </div>
        
         </div>
