@@ -39,7 +39,7 @@ function App() {
         <div className="demetri">
           <img src={profilePic} alt="profile image" />
           <div className="aboutMe">
-          Motivated software engineer, with expertise in various areas of computer science such as data science, software development, and artificial intelligence. 
+          About Me: Motivated software engineer, with expertise in various areas of computer science such as data science, software development, and artificial intelligence. 
           Posses a solid foundation in programming languages and problem-solving skills to contribute to the tech industry and take on challenging projects.
           </div>
        
